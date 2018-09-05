@@ -14,5 +14,6 @@
     <Compile Include="Dojo.fs" />
     <Compile Include="Tests.fs" />
     <Compile Include="Main.fs" />
+    <None Include="Sandbox.fsx" />
   </ItemGroup>
 </Project>
